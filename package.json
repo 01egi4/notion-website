@@ -1,3 +1,0 @@
-"scripts": {
-    "preinstall": "npm install notion-page-to-html"
-}
