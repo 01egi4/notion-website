@@ -1,0 +1,10 @@
+body {
+  font-family: system-ui, sans-serif;
+}
+
+img {
+  max-width: 100%;
+  max-height: 70vh;
+}
+
+/* add your own CSS to make it look how you want */
