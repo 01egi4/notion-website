@@ -1,4 +1,4 @@
-const notionDocId = "4d64bbc0634d4758befa85c5a3a6c22f"
+const notionDocId = "7d267919b1194868bef50cc4ee2f0379"
 
 fetch("https://notion-page-to-html-api.vercel.app/html?id=" + notionDocId)
   .then(res => res.text())
